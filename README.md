@@ -6,7 +6,7 @@ Based on [Arbitrary Style Transfer in Real-time with Adaptive Instance Normaliza
 
 ## Architecture
 
-![image-20210109145807459](/asset/images/architecture.jpg)
+![image-20210109145807459](/asset/images/architecture.JPG)
 
 - Adaptive Instance Normalization
 
